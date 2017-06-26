@@ -6,6 +6,18 @@ This is the main repository for Project Open NanoCarbon containing open source d
 
 More files, designs, code will be added at the project moves from research to enginnering.
 
-Stay in touch. Join the project, drop a line in the [ONC Chat](https://gitter.im/opennanocarbon).
-
 ### [How to Contribute](https://opennanocarbon.atlassian.net/wiki/display/REF/How+to+contribute+to+Project+Open+NanoCarbon)
+
+Read the main site: http://www.autofracture.com/opencarbon
+
+Read the main page of the [wiki](https://opennanocarbon.atlassian.net), it will contain the latest status of this project and any updates.
+
+Subscribe to the meetup: https://www.meetup.com/Open-Source-Nanocarbon-Manufacture/
+
+Say hi on chat: https://gitter.im/opennanocarbon/
+
+Clone the Horseshoe Bay repo on https://github.com/safiume/hsbay
+
+Log in, or create a user account to the wiki. Select 'Log in' in the upper right hand corner of the [wiki](https://opennanocarbon.atlassian.net) to log in or have the option to create a new account.
+
+Start experimenting and building.
