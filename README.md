@@ -4,7 +4,7 @@ This is the main repository for Project Open NanoCarbon containing open source d
 
 ## | [ONC Main Site](http://www.autofracture.com/opencarbon) | [ONC wiki](https://opennanocarbon.atlassian.net) | [ONC Meetup](https://www.meetup.com/Open-Source-Nanocarbon-Manufacture/) | [ONC Chat](https://gitter.im/opennanocarbon) |
 
-More files, designs, code will be added at the project moves from research to enginnering.
+More files, designs, code will be added at the project moves from research to engineering.
 
 ### [How to Contribute](https://opennanocarbon.atlassian.net/wiki/display/REF/How+to+contribute+to+Project+Open+NanoCarbon)
 
