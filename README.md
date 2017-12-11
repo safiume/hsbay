@@ -2,7 +2,7 @@
 
 This is the main repository for Project Open NanoCarbon containing open source designs, schematics, documents to solidify carbon from atmospheric CO2.
 
-## | [ONC Main Site](http://www.autofracture.com/opencarbon) | [ONC wiki](https://opennanocarbon.atlassian.net) | [ONC Meetup](https://www.meetup.com/Open-Source-Nanocarbon-Manufacture/) | [ONC Chat](https://gitter.im/opennanocarbon) |
+## | [ONC Main Site](http://www.autofracture.com/opencarbon) | [ONC wiki](https://opennanocarbon.atlassian.net) | [ONC Meetup](https://www.meetup.com/OpenNanoCarbon/) | [ONC Chat](https://gitter.im/opennanocarbon) |
 
 More files, designs, code will be added at the project moves from research to engineering.
 
@@ -12,7 +12,7 @@ Read the main site: http://www.autofracture.com/opencarbon
 
 Read the main page of the [wiki](https://opennanocarbon.atlassian.net), it will contain the latest status of this project and any updates.
 
-Subscribe to the meetup: https://www.meetup.com/Open-Source-Nanocarbon-Manufacture/
+Subscribe to the meetup: https://www.meetup.com/OpenNanoCarbon
 
 Say hi on chat: https://gitter.im/opennanocarbon/
 
