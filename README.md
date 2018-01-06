@@ -1,6 +1,6 @@
 # Project Open NanoCarbon - Horseshoe Bay Repository
 
-This is the main repository for Project Open NanoCarbon containing open source designs, schematics, documents to solidify carbon from atmospheric CO2.
+[github.com/hsbay](github.com/hsbay) is the main repository for Project Open NanoCarbon which will contain open source designs, schematics, documents, and software tools to further the main project effort to solidify carbon from atmospheric CO2.
 
 ## | [ONC Main Site](http://www.autofracture.com/opencarbon) | [ONC wiki](https://opennanocarbon.atlassian.net) | [ONC Meetup](https://www.meetup.com/OpenNanoCarbon/) | [ONC Chat](https://gitter.im/opennanocarbon) |
 
@@ -16,7 +16,7 @@ Subscribe to the meetup: https://www.meetup.com/OpenNanoCarbon
 
 Say hi on chat: https://gitter.im/opennanocarbon/
 
-Clone the Horseshoe Bay repo on https://github.com/safiume/hsbay
+Clone the desired repo in Horseshoe Bay on https://github.com/hsbay
 
 Log in, or create a user account to the wiki. Select 'Log in' in the upper right hand corner of the [wiki](https://opennanocarbon.atlassian.net) to log in or have the option to create a new account.
 
